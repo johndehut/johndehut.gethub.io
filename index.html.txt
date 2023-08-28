@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Your Name - Resume</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Your Name</h1>
+        <p>Web Developer</p>
+    </header>
+    <section id="education">
+        <h2>Education</h2>
+        <p>Bachelor of Computer Science - University XYZ</p>
+    </section>
+    <!-- Add more sections for experience, projects, skills, etc. -->
+</body>
+</html>
